@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/ubuntu_package/__init__.py
+src/ubuntu_package/module.py
+src/ubuntu_package_vivek9_nar.w_ay.egg-info/PKG-INFO
+src/ubuntu_package_vivek9_nar.w_ay.egg-info/SOURCES.txt
+src/ubuntu_package_vivek9_nar.w_ay.egg-info/dependency_links.txt
+src/ubuntu_package_vivek9_nar.w_ay.egg-info/top_level.txt
+test/testModule.py

@@ -1,3 +1,22 @@
 [build-system]
-requires = ["setuptools>=46.4.0", "wheel"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "ubuntu_package_vivek9-nar.w_ay"
+version = "0.0.1"
+authors = [
+  { name="Vivek Narway", email="vivek.narway.19032@iitgoa.ac.in" },
+]
+description = "Assignment 3 Lab"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/narwayvivek/ubuntu-package.git"
+"Bug Tracker" = "https://github.com/narwayvivek/ubuntu-package.git/issues"
